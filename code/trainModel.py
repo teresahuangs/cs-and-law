@@ -47,8 +47,10 @@ class SimpleNN(nn.Module):
         self.fc = nn.Sequential(
             nn.Linear(input_size, 128),
             nn.ReLU(),
+            nn.Dropout(0.2),
             nn.Linear(128, 64),
             nn.ReLU(),
+            nn.Dropout(0.2),
             nn.Linear(64, 2),
         )
 
@@ -80,7 +82,7 @@ def train_classifier(root_dir):
         range(len(labels)), test_size=0.4, stratify=labels, random_state=42
     )
     val_indices, test_indices = train_test_split(
-        temp_indices, test_size=0.5, stratify=[labels[i] for i in temp_indices], random_state=42
+        temp_indices, test_size=0.75, stratify=[labels[i] for i in temp_indices], random_state=42
     )
 
     # Count and print class distribution
@@ -103,7 +105,7 @@ def train_classifier(root_dir):
     test_loader = DataLoader(test_dataset, batch_size=32, shuffle=False)
 
     # Model, loss, and optimizer
-    input_size = dataset[0][0].shape[0]  # Dimension of vectors
+    input_size = dataset[0][0].shape[0]
     model = SimpleNN(input_size)
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.001)
