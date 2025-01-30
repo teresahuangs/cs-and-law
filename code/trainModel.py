@@ -11,6 +11,7 @@ class VectorsDataset(Dataset):
     def __init__(self, root_dir, target_folders, other_folders):
         self.data = []
         self.labels = []
+        self.file_paths = []  # Store file paths for logging misclassified samples
 
         # Load vectors from target folders (VincentVanGogh = 1)
         for folder in target_folders:
@@ -30,6 +31,7 @@ class VectorsDataset(Dataset):
                     vector = np.load(vector_path)
                     self.data.append(vector)
                     self.labels.append(label)
+                    self.file_paths.append(vector_path)  # Store the file path
 
     def __len__(self):
         return len(self.data)
@@ -37,7 +39,8 @@ class VectorsDataset(Dataset):
     def __getitem__(self, idx):
         vector = torch.tensor(self.data[idx], dtype=torch.float32)
         label = torch.tensor(self.labels[idx], dtype=torch.long)
-        return vector, label
+        file_path = self.file_paths[idx]  # Include file path
+        return vector, label, file_path
 
 
 # Neural network classifier
@@ -59,9 +62,7 @@ class SimpleNN(nn.Module):
 
 
 def count_classes(dataset, indices):
-    """
-    Count the number of samples for each class in a dataset subset.
-    """
+    """ Count the number of samples for each class in a dataset subset. """
     labels = [dataset.labels[i] for i in indices]
     class_counts = {0: labels.count(0), 1: labels.count(1)}
     return class_counts
@@ -117,7 +118,7 @@ def train_classifier(root_dir):
     for epoch in range(epochs):
         model.train()
         total_loss = 0
-        for vectors, labels in train_loader:
+        for vectors, labels, _ in train_loader:
             optimizer.zero_grad()
             outputs = model(vectors)
             loss = criterion(outputs, labels)
@@ -133,7 +134,7 @@ def train_classifier(root_dir):
         correct = 0
         total = 0
         with torch.no_grad():
-            for vectors, labels in val_loader:
+            for vectors, labels, _ in val_loader:
                 outputs = model(vectors)
                 loss = criterion(outputs, labels)
                 val_loss += loss.item()
@@ -155,19 +156,36 @@ def train_classifier(root_dir):
     model.load_state_dict(best_model_state)
     print("Best model weights loaded.")
 
-    # Test the model
+    # Test the model and log misclassified images
     model.eval()
     correct = 0
     total = 0
+    misclassified = []
+
     with torch.no_grad():
-        for vectors, labels in test_loader:
+        for vectors, labels, file_paths in test_loader:
             outputs = model(vectors)
             _, predicted = torch.max(outputs, 1)
             correct += (predicted == labels).sum().item()
             total += labels.size(0)
 
+            # Find misclassified samples
+            for i in range(len(labels)):
+                if predicted[i] != labels[i]:
+                    misclassified.append(file_paths[i])
+
     test_accuracy = correct / total
     print(f"Test Accuracy: {test_accuracy * 100:.2f}%")
+
+    # Save the misclassified file paths
+    os.makedirs("logs", exist_ok=True)
+    misclassified_file = "logs/misclassified.txt"
+
+    with open(misclassified_file, "w") as f:
+        for path in misclassified:
+            f.write(path + "\n")
+
+    print(f"Misclassified samples saved to {misclassified_file}")
 
     # Save the trained model
     torch.save(model.state_dict(), "vincent_van_gogh_classifier.pth")
