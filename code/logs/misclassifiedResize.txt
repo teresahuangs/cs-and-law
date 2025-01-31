@@ -1,0 +1,66 @@
+vectorsVgg19Resize/VVG/original/Arles/The Gleize Bridge over the Vigueirat Canal.npy
+vectorsVgg19Resize/Monet/00655.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_20.npy
+vectorsVgg19Resize/Monet/00113.npy
+vectorsVgg19Resize/RedBubbleVVG/Hoodie/ssrco,mhoodie,mens,fafafa-ca443f4786,front,square_product,x600-bg,f8f8f8.1u1.npy
+vectorsVgg19Resize/VVG/original/Arles/Landscape with Snow.npy
+vectorsVgg19Resize/VVG/original/Paris/Vase with Daisies.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (42).npy
+vectorsVgg19Resize/VVG/original/Watercolors/Stone Bench in the Garden of the Asylum.npy
+vectorsVgg19Resize/Monet/00018.npy
+vectorsVgg19Resize/RedBubbleVVG/Hats/ssrco,bucket_hat,product,101010-01c5ca27c6,srp,square,600x600-bg,f8f8f8.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_133.npy
+vectorsVgg19Resize/RedBubbleVVG/alessia/fposter,small,wall_texture,square_product,600x600.u13 (1).npy
+vectorsVgg19Resize/RedBubbleNotVVG/HatPicasso/ssrco,dad_hat,product,101010-01c5ca27c6,front,square,600x600-bg,f8f8f8.u1.npy
+vectorsVgg19Resize/VVG/original/Watercolors/Scheveningen Women and Other People Under Umbrellas.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8.u3 (1).npy
+vectorsVgg19Resize/VVG/original/Nuenen/Head of a Peasant Woman with Dark Cap 2.npy
+vectorsVgg19Resize/RedBubbleNotVVG/warhol posters/fposter,small,wall_texture,square_product,600x600 (28).npy
+vectorsVgg19Resize/VVG/original/Watercolors/View of The Hague with the New Church.npy
+vectorsVgg19Resize/RedBubbleNotVVG/StickersMonet/st,small,507x507-pad,600x600,f8f8f8 (5).npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (20).npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_130.npy
+vectorsVgg19Resize/RedBubbleVVG/Hats/ssrco,dad_hat,product,FFFDF5-8c3db69414,front,square,600x600-bg,f8f8f8-6.npy
+vectorsVgg19Resize/Monet/01067.npy
+vectorsVgg19Resize/VVG/original/Watercolors/Four Men Cutting Wood.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_67.npy
+vectorsVgg19Resize/RedBubbleNotVVG/TShirtMonet/ssrco,classic_tee,mens,fafafa-ca443f4786,front_alt,square_product,600x600-6.npy
+vectorsVgg19Resize/RedBubbleVVG/TShirts/ssrco,classic_tee,mens,bed4e8-ce5f86edd7,front_alt,square_product,600x600.u3.npy
+vectorsVgg19Resize/RedBubbleVVG/Hoodie/ssrco,lightweight_sweatshirt,womens,heather_dark_grey,front,square_product,x600-bg,f8f8f8.1-2.npy
+vectorsVgg19Resize/RedBubbleVVG/Hats/ssrco,dad_hat,product,FFFDF5-8c3db69414,front,square,600x600-bg,f8f8f8-2 copy.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (47).npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (5).npy
+vectorsVgg19Resize/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8-3.npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (52).npy
+vectorsVgg19Resize/Monet/00017.npy
+vectorsVgg19Resize/VVG/original/Arles/Railway Carriages.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8.u1 (3).npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u2 (12).npy
+vectorsVgg19Resize/Monet/00285.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (10).npy
+vectorsVgg19Resize/Monet/00855.npy
+vectorsVgg19Resize/RedBubbleNotVVG/HoodiePicasso/ssrco,mhoodie,womens,101010-01c5ca27c6,front,square_product,x600-bg,f8f8f8.1.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_46.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_17.npy
+vectorsVgg19Resize/VVG/original/Watercolors/People Strolling on the Beach.npy
+vectorsVgg19Resize/Monet/00431.npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (36).npy
+vectorsVgg19Resize/Monet/00787.npy
+vectorsVgg19Resize/RedBubbleNotVVG/warhol phone/icr,iphone_16_tough,back,a,x600-pad,600x600,f8f8f8.u5.npy
+vectorsVgg19Resize/VVG/original/Nuenen/Cottage 2.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_160.npy
+vectorsVgg19Resize/RedBubbleNotVVG/HoodieMonet/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8-3.npy
+vectorsVgg19Resize/RedBubbleVVG/alessia/fposter,small,wall_texture,square_product,600x600.u1 (2).npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u9.npy
+vectorsVgg19Resize/RedBubbleVVG/Hats/ssrco,bucket_hat,product,101010-01c5ca27c6,srp,square,600x600-bg,f8f8f8-2.npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_101.npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (78).npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (6).npy
+vectorsVgg19Resize/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8.u3 (2).npy
+vectorsVgg19Resize/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u1 (16).npy
+vectorsVgg19Resize/Andy_Warhol/Andy_Warhol_34.npy
+vectorsVgg19Resize/RedBubbleVVG/Hats/ssrco,bucket_hat,product,1a2336-04fab2e03b,srp,square,600x600-bg,f8f8f8.npy
+vectorsVgg19Resize/RedBubbleNotVVG/TShirtMonet/ssrco,classic_tee,mens,heather_oatmeal,front_alt,square_product,600x600.u2.npy
+vectorsVgg19Resize/Monet/00589.npy
+vectorsVgg19Resize/RedBubbleVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (38).npy
+vectorsVgg19Resize/RedBubbleNotVVG/HatPicasso/ssrco,bucket_hat,product,e5d6c5-f62bbf65ee,srp,square,600x600-bg,f8f8f8.npy

@@ -80,21 +80,22 @@ class Img2Vec:
             "efficientnet_b0": models.EfficientNet_B0_Weights,
         }
 
-        # try load preprocess from torchvision else assign default
-        try:
-            w = weights_dict[self.architecture]
-            weights = getattr(w, weights)
-            preprocess = weights.transforms()
-        except Exception:
-            preprocess = transforms.Compose(
-                [
-                    transforms.Resize(224),
-                    transforms.ToTensor(),
-                    transforms.Normalize(
-                        mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]
-                    ),
-                ]
-            )
+        # # try load preprocess from torchvision else assign default
+        # try:
+        #     w = weights_dict[self.architecture]
+        #     weights = getattr(w, weights)
+        #     preprocess = weights.transforms()
+        # except Exception:
+        preprocess = transforms.Compose(
+            [
+                transforms.Resize(512),
+                transforms.CenterCrop(448),
+                transforms.ToTensor(),
+                transforms.Normalize(
+                    mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]
+                ),
+            ]
+        )
 
         return preprocess
 
