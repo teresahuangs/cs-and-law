@@ -1,0 +1,65 @@
+vectorsVgg19ResizeCenterCrop/VVG/original/Arles/The Gleize Bridge over the Vigueirat Canal.npy
+vectorsVgg19ResizeCenterCrop/Monet/00479.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ssrco,mhoodie,womens,fafafa-ca443f4786,front,square_product,x600-bg,f8f8f8.1u3.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ssrco,mhoodie,mens,fafafa-ca443f4786,front,square_product,x600-bg,f8f8f8.1u1.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (81).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,heather_oatmeal,back-c,281,327,600,600-bg,f8f8f8.u2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Paris/Vase with Daisies.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/StickersMonet/st,small,507x507-pad,600x600,f8f8f8 (81).npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Watercolors/Stone Bench in the Garden of the Asylum.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hats/ssrco,bucket_hat,product,101010-01c5ca27c6,srp,square,600x600-bg,f8f8f8.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HoodiePicasso/ssrco,lightweight_hoodie,womens,101010-01c5ca27c6,front,square_product,x600-bg,f8f8f8.1u6.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HatPicasso/ssrco,dad_hat,product,101010-01c5ca27c6,front,square,600x600-bg,f8f8f8.u1.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/TShirts/ssrco,sleeveless_top,womens,black,front,square_product,x600.u2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8.u3 (1).npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Nuenen/Head of a Peasant Woman with Dark Cap 2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HoodiePicasso/ssrco,mhoodiez,mens,101010-01c5ca27c6,front,square_product,600x600-bg,f8f8f8.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Paris/Trees and Undergrowth 2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/TShirts/ssrco,sleeveless_top,womens,black,front,square_product,x600.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Watercolors/View of The Hague with the New Church.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Arles/Two Thistles.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (20).npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Drawings/Landscape with Pollard Willows.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (55).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hats/ssrco,dad_hat,product,FFFDF5-8c3db69414,front,square,600x600-bg,f8f8f8-6.npy
+vectorsVgg19ResizeCenterCrop/Monet/01067.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Watercolors/Four Men Cutting Wood.npy
+vectorsVgg19ResizeCenterCrop/Andy_Warhol/Andy_Warhol_67.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HoodieMonet/ssrco,lightweight_sweatshirt,mens,heather_dark_grey,front,square_product,x600-bg,f8f8f8.u4.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/TShirts/ssrco,classic_tee,mens,bed4e8-ce5f86edd7,front_alt,square_product,600x600.u3.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Nuenen/Old Church Tower at Nuenen The Peasants Churchyard.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Watercolors/The Landscape in Dr.npy
+vectorsVgg19ResizeCenterCrop/Monet/00072.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (47).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (5).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8-3.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Arles/Railway Carriages.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HatPicasso/ssrco,dad_hat,product,FFFDF5-8c3db69414,front,square,600x600-bg,f8f8f8.u2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8.u1 (3).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u2 (12).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/TShirtMonet/ssrco,classic_tee,womens,101010-01c5ca27c6,front_alt,square_product,600x600.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (80).npy
+vectorsVgg19ResizeCenterCrop/Monet/00285.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (10).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HoodiePicasso/ssrco,mhoodie,womens,101010-01c5ca27c6,front,square_product,x600-bg,f8f8f8.1.npy
+vectorsVgg19ResizeCenterCrop/Andy_Warhol/Andy_Warhol_46.npy
+vectorsVgg19ResizeCenterCrop/Andy_Warhol/Andy_Warhol_17.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8-3 copy.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (36).npy
+vectorsVgg19ResizeCenterCrop/Monet/00787.npy
+vectorsVgg19ResizeCenterCrop/VVG/original/Nuenen/Cottage 2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (22).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/alessia/fposter,small,wall_texture,square_product,600x600.u1 (2).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u9.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hats/ssrco,bucket_hat,product,101010-01c5ca27c6,srp,square,600x600-bg,f8f8f8-2.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HoodieMonet/ra,sweatshirt,x1800,101010-01c5ca27c6,front-c,281,327,600,600-bg,f8f8f8.u6.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/TShirts/ssrco,slim_fit_t_shirt,mens,fafafa-ca443f4786,front,square_product,600x600.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (45).npy
+vectorsVgg19ResizeCenterCrop/Andy_Warhol/Andy_Warhol_101.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8.u5 (1).npy
+vectorsVgg19ResizeCenterCrop/Monet/00068.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Stickers/st,small,507x507-pad,600x600,f8f8f8 (6).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/Hoodie/ra,sweatshirt,x1800,fcfcfa-e7fde99dd4,front-c,281,327,600,600-bg,f8f8f8-6.npy
+vectorsVgg19ResizeCenterCrop/RedBubbleVVG/alessia/st,small,507x507-pad,600x600,f8f8f8 (38).npy
+vectorsVgg19ResizeCenterCrop/RedBubbleNotVVG/HatPicasso/ssrco,bucket_hat,product,e5d6c5-f62bbf65ee,srp,square,600x600-bg,f8f8f8.npy

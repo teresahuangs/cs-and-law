@@ -49,5 +49,5 @@ def process_images(input_dir, output_dir, model_name="vgg19", weights="DEFAULT")
 
 if __name__ == "__main__":
     input_directory = "data/"  # Directory containing images
-    output_directory = "vectors/"  # Directory to save the vectors
+    output_directory = "vectors2/"  # Directory to save the vectors
     process_images(input_directory, output_directory)
