@@ -5,7 +5,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, Subset
 import numpy as np
 from sklearn.model_selection import train_test_split
-
+from datetime import datetime
 
 class VectorsDataset(Dataset):
     def __init__(self, root_dir, target_folders, other_folders):
@@ -177,9 +177,9 @@ def train_classifier(root_dir):
     test_accuracy = correct / total
     print(f"Test Accuracy: {test_accuracy * 100:.2f}%")
 
-    # Save the misclassified file paths
     os.makedirs("logs", exist_ok=True)
-    misclassified_file = "logs/misclassified.txt"
+    today_date = datetime.today().strftime("%d.%m.%Y")
+    misclassified_file = f"logs/misclassified-{today_date}.txt"
 
     with open(misclassified_file, "w") as f:
         for path in misclassified:
@@ -188,8 +188,8 @@ def train_classifier(root_dir):
     print(f"Misclassified samples saved to {misclassified_file}")
 
     # Save the trained model
-    torch.save(model.state_dict(), "vincent_van_gogh_classifier.pth")
-    print("Model saved as vincent_van_gogh_classifier.pth")
+    torch.save(model.state_dict(), f"models/vincent_van_gogh_classifier-{today_date}-{test_accuracy * 100:.2f}%.pth")
+    print(f"Model saved as models/vincent_van_gogh_classifier-{today_date}-{test_accuracy * 100:.2f}%.pth")
 
 
 if __name__ == "__main__":
